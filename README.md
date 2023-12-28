@@ -20,6 +20,29 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
+
+## About
+
+- **Project Name:** PromptGpt
+- **Description:** PromptGpt is my first Next.js project, designed to provide prompts that you can copy and paste into ChatGPT to find answers. It aims to streamline the process of generating prompts for ChatGPT and accessing relevant responses.
+- **Features:**
+  - Generates prompts for ChatGPT
+  - Simplifies the process of finding answers
+  - User-friendly interface
+  - View other profile feature
+  - search on tag/username/prompt-text available
+- **Technologies Used:**
+  - Next.js
+  - Tailwind.css
+  - ReactJs
+  - MongoDb
+  - javascript
+
+
+
+
+
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
