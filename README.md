@@ -39,7 +39,22 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
   - javascript
 
 
+## screenshots
 
+-- home page
+![home-page](image.png)
+
+-- Create-post page
+
+![Create-post](image-1.png)
+
+
+-- My-profile page
+![My-profile](image-2.png)
+
+
+-- Edit-post page
+![Edit-post](image-3.png)
 
 
 
