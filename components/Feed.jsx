@@ -26,7 +26,7 @@ const Feed = () => {
   const [searchTimeout, setSearchTimeout] = useState(null);
 
   const filterPrompts = (searchText) => {
-    const regex = new RegExp(searchText, "i");
+    const regex = new RegExp(searchText, "i");  // "i"-> is used for case insensitive
 
     return posts.filter(
       (item) =>

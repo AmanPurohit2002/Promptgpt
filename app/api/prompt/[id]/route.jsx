@@ -27,8 +27,8 @@ export const PATCH=async (req,{params})=>{
     try {
         await connectedToDb();
 
-        const existingPrompt=await Prompt.findByIdAndUpdate(params.id
-            ,{
+        const existingPrompt=await Prompt.findByIdAndUpdate(params.id,
+            {
                 prompt:prompt,
                 tag:tag
             });
