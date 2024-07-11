@@ -1,4 +1,5 @@
 import mongoose from "mongoose";
+
 let isDbConnected = false;
 
 const connectedToDb = async () => {
